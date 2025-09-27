@@ -2,6 +2,6 @@ pyrofork
 tgcrypto
 mega.py
 python-dotenv
-tenacity
+tenacity>=8.2.3
 flask
 gunicorn==20.1.0
