@@ -3,6 +3,5 @@ tgcrypto==1.2.5
 mega.py==1.0.8
 pycryptodome==3.23.0
 python-dotenv==1.1.1
-tenacity==9.1.2
 flask==3.1.2
 gunicorn==20.1.0
