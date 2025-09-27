@@ -1,6 +1,7 @@
 pyrofork
 tgcrypto
 mega.py
+pycryptodome
 python-dotenv
 tenacity>=8.2.3
 flask
